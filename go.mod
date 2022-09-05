@@ -1,3 +1,4 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/ashar8889/wowchemy-widget-newpeople
+
 
 go 1.15
